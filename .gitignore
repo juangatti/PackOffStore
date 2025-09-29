@@ -1,0 +1,14 @@
+# Directorios de Node
+**/node_modules
+
+# Archivos de Entorno y Seguridad (CRUCIAL)
+/backend/.env
+
+# Directorios de Build/Compilación (Frontends)
+/frontend-store/dist
+/frontend-admin/dist
+.astro
+.log
+
+# Archivos del SO
+.DS_Stores
